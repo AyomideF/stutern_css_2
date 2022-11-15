@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: content-box;
+}
+main {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid black;
+}
+.section {
+  font-size: 18px;
+}
+#first {
+  color: green;
+  font-size: 14px;
+}
+#second {
+  color: red;
+  font-size: 14px;
+}
+#third {
+  color: blue;
+  font-size: 14px;
+}
